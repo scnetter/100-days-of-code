@@ -12,6 +12,13 @@
 
 [//]: # ()
 [//]: # (**Link to work:** [Calculator App]&#40;http://www.example.com&#41;)
+### Day 2: Aug, 10 2023
+
+**Today's Progress**: ZTM Python Course (finished data types section).
+
+**Thoughts** Late start today due to a family visit (whoo!) but, still going through the html content on The Odin
+Project. Mostly review but, I'm also finishing up the data types section on the ZTM Python course. Also started tweeting
+daily progress yesterday with #100DaysOfCoding. 
 
 ### Day 1: Aug, 9 2023
 
