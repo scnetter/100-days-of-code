@@ -20,10 +20,13 @@ Started TCM PNPT AD Labs section.
 **Thoughts** I decided to include all my study topics here (not just coding) as they are related and the 
 goal from all efforts is the same: improve my skillset and continual learning. The Odin basic HTML project
 is a bit boring and a slog as the backend web dev is my primary interest right now but, I don't want to skip
-the basic building blocks (though I already have experience with HTML). 
+the basic building blocks (though I already have experience with HTML).
 
 On the TCM PNPT front, I have committed to see if I can get through all the required courses and sit the exam
-by mid-Sept. It might be too aggressive but, I'll find out and adjust as needed. 
+by mid-Sept. It might be too aggressive but, I'll find out and adjust as needed. One of the joys of living rural
+is that things that seem basic can be hard to get. Example, I need a VGA cable for a "new" but, none of the local
+stores have one. So, my labs in PNPT are going to wait until tomorrow. Today, I've been reviewing the topics and 
+related processes so I can hit the ground running once I have everything setup tomorrow afternoon.
 
 **Link to work** [Recipes Pages](https://github.com/scnetter/odin-recipes)
 
