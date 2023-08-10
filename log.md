@@ -12,6 +12,21 @@
 
 [//]: # ()
 [//]: # (**Link to work:** [Calculator App]&#40;http://www.example.com&#41;)
+### Day 3: Aug, 11 2023
+
+**Today's Progress**: Finished Odin first HTML project. Start next ZTM section on Python (flow control).
+Started TCM PNPT AD Labs section.
+
+**Thoughts** I decided to include all my study topics here (not just coding) as they are related and the 
+goal from all efforts is the same: improve my skillset and continual learning. The Odin basic HTML project
+is a bit boring and a slog as the backend web dev is my primary interest right now but, I don't want to skip
+the basic building blocks (though I already have experience with HTML). 
+
+On the TCM PNPT front, I have committed to see if I can get through all the required courses and sit the exam
+by mid-Sept. It might be too aggressive but, I'll find out and adjust as needed. 
+
+**Link to work** [Recipes Pages](https://github.com/scnetter/odin-recipes)
+
 ### Day 2: Aug, 10 2023
 
 **Today's Progress**: ZTM Python Course (finished data types section).
