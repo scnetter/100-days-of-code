@@ -12,6 +12,13 @@
 
 [//]: # ()
 [//]: # (**Link to work:** [Calculator App]&#40;http://www.example.com&#41;)
+### Day 4: Aug, 12 2023
+
+**Today's Progress**: Limited progress today, but I did go through the Project Odin CSS/Typography lesson.
+
+**Thoughts**: Between some work responsibilities and general tiredness, I was happy just to not miss spending time on coding
+today.
+
 ### Day 3: Aug, 11 2023
 
 **Today's Progress**: Finished Odin first HTML project. Start next ZTM section on Python (flow control).
