@@ -12,6 +12,13 @@
 
 [//]: # ()
 [//]: # (**Link to work:** [Calculator App]&#40;http://www.example.com&#41;)
+### Day 5: Aug, 13 2023
+
+**Today's Progress**: Finished HTML/CSS section in Odin Project. Started Box Model section. Worked on PNPT AD lab setup.
+
+**Thoughts**: I didn't get any time in on Python today but, made good progress on both Odin tasks and PNPT AD lab setup.
+Should be able to actually start doing AD labs tomorrow and will spend some time progressing ZTM Python course too.
+
 ### Day 4: Aug, 12 2023
 
 **Today's Progress**: Limited progress today, but I did go through the Project Odin CSS/Typography lesson.
