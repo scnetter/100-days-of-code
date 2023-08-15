@@ -12,6 +12,22 @@
 
 [//]: # ()
 [//]: # (**Link to work:** [Calculator App]&#40;http://www.example.com&#41;)
+### Day 6: Aug, 15 2023
+
+**Today's Progress**: Finished PNPT AD Lab setup. Did a few Python modules on ZTM and started Odin Box model exercises.
+
+**Thoughts**: Dedicating most of my time to PNPT work for the next few weeks but, I will continue to spend time daily on 
+coding. I'll be splitting coding time between ZTM and Odin.
+
+Today was roughly 3-4 hours on PNPT and about 1-2 hours on coding specifically.
+
+### Day 6 - Not Counted: Aug, 14 2023
+
+**Today's Progress**: Missed Day
+
+**Thoughts**: Took a rest day. I'll only count days that I actually progress and, as per project Odin guidelines, never 
+two days in a row.
+
 ### Day 5: Aug, 13 2023
 
 **Today's Progress**: Finished HTML/CSS section in Odin Project. Started Box Model section. Worked on PNPT AD lab setup.
