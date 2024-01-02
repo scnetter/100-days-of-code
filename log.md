@@ -12,6 +12,12 @@
 
 [//]: # ()
 [//]: # (**Link to work:** [Calculator App]&#40;http://www.example.com&#41;)
+### Day 7(?): Jan, 2 2024
+
+**Today's Progress**: The (?) is because, though I've not posted here for a while, I've actually been actively coding over the last several months. I'm finishing up a bootcamp focused on Java/Springboot, Javascript, Vue.js and I've been submitting code most days in a private gitlab repo. I'm going to start updating this log with that activity (not sur ewhy I didn't think to do this before) but, as a compromise, I won't estimate the # of days missed and will just start with the next day I would have logged (Day 7).
+
+**Thoughts**: Today was focused on some initial exercises using Vue.js. I'm also working through some self-study using Node.js/Express.
+
 ### Day 6: Aug, 15 2023
 
 **Today's Progress**: Finished PNPT AD Lab setup. Did a few Python modules on ZTM and started Odin Box model exercises.
