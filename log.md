@@ -12,6 +12,13 @@
 
 [//]: # ()
 [//]: # (**Link to work:** [Calculator App]&#40;http://www.example.com&#41;)
+### Day 8: Jan 3, 2024
+
+**Today's Progress**: Coursework today focused on learning about Vue Event-Handling and the MVVM architecture (how it compares to MVC). Completed exercise implementing a userlist and filter using a Vue component and the associated data, computed and method sections. 
+
+Evening activity involved assisting a classmate with an issue and then working through additional learning content on Node.js (deploying a MongoDb instance using Docker to be used with my ongoing Node.js project).
+
+**Thoughts**: Although the Vue material probably won't be directly relevant to wherever I land based on general usage/popularity, gaining some experience with the concepts and general awareness of the framework is useful (and interesting). 
 ### Day 7(?): Jan, 2 2024
 
 **Today's Progress**: The (?) is because, though I've not posted here for a while, I've actually been actively coding over the last several months. I'm finishing up a bootcamp focused on Java/Springboot, Javascript, Vue.js and I've been submitting code most days in a private gitlab repo. I'm going to start updating this log with that activity (not sur ewhy I didn't think to do this before) but, as a compromise, I won't estimate the # of days missed and will just start with the next day I would have logged (Day 7).
