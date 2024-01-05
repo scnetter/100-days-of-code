@@ -12,6 +12,26 @@
 
 [//]: # ()
 [//]: # (**Link to work:** [Calculator App]&#40;http://www.example.com&#41;)
+### Day 10: Jan 5, 2024
+
+**Today's Progress**: Today we spent some more time going over Vuex and then transitioned to an initial discussion of Vue router (router/index.js).
+
+Similar to what I've seen in Node/Rails. Not the same by any means but, again, more like a different dialect rather than a completely new language.
+
+**Thoughts**: One of the aspects of Vue that I'm not a huge fan of is how many tools are involved with creating a comprehensive and functional app. 
+
+Of course, the flexibility is a plus when that is needed as you can easily change the various tools as needed (easily might be a bit optimistic for me but - for a dev experienced with the framework and it's eco-system I'll assume it's not a huge challenge).
+
+However, I compare that to more opinionated frameworks that attempt to create a fairly cohesive environment and, for beginners, or even folks who want to ramp up quickly and focus on the end product rather than the nuts and bolts, I can see how it would be distracting and consume cycles better spent on creating something you can use quickly.
+
+Of course, I could change my opinion as I get more experience. This is just my perspective at this moment in time.
+### Day 9: Jan 4, 2024
+
+**Today's Progress**: Focus today was on reviewing previous topic of event handling in Vue and then beginning to learn about Vuex as datastore for Vue and how the components communicate and pass information. 
+
+Currently using static objects and arrays in the store/state but the intent is to transition to a connected DB in the future.
+
+**Thoughts**: It's interesting how various frameworks are very similar. The {{}}'s in Vue along with the various directives (v-on, v-bind, etc) take a bit of getting used to but, it's pretty straightforward once you're over that hump. I'm sure it will take time to be completely comfortable but, all in all, it's not overwhelming as Vue has a lot of cognates with any number of other frameworks from what I can see.
 ### Day 8: Jan 3, 2024
 
 **Today's Progress**: Coursework today focused on learning about Vue Event-Handling and the MVVM architecture (how it compares to MVC). Completed exercise implementing a userlist and filter using a Vue component and the associated data, computed and method sections. 
