@@ -18,6 +18,8 @@
 
 Similar to what I've seen in Node/Rails. Not the same by any means but, again, more like a different dialect rather than a completely new language.
 
+*Personal Study* - I started going through the initial GoRails.com course material. It's mostly review but, I can use the refresher. Intent is to complete the basic course tomorrow (Saturday) and start the Rails projects. It's been a while and I'm unsure how much has changed or how much I remember. However, I'm excited to get started.
+
 **Thoughts**: One of the aspects of Vue that I'm not a huge fan of is how many tools are involved with creating a comprehensive and functional app. 
 
 Of course, the flexibility is a plus when that is needed as you can easily change the various tools as needed (easily might be a bit optimistic for me but - for a dev experienced with the framework and it's eco-system I'll assume it's not a huge challenge).
