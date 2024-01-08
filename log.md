@@ -12,6 +12,12 @@
 
 [//]: # ()
 [//]: # (**Link to work:** [Calculator App]&#40;http://www.example.com&#41;)
+### Day 11: Jan 7, 2024
+
+**Today's Progress**: Spent some time on Ruby refresher courses. Going to make sure I'm familiarized with base Ruby before starting some Rails learning projects.
+
+**Thoughts**: So far, not a lot seems to have changed since I was working with and learning Ruby previously. Most of the material is familiar and just a matter of stretching those old Ruby muscles.
+
 ### Day 10: Jan 5, 2024
 
 **Today's Progress**: Today we spent some more time going over Vuex and then transitioned to an initial discussion of Vue router (router/index.js).
