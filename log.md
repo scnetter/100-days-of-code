@@ -12,6 +12,14 @@
 
 [//]: # ()
 [//]: # (**Link to work:** [Calculator App]&#40;http://www.example.com&#41;)
+### Day 12: Jan 8, 2024
+
+**Today's Progress**: Curriculum today focused on continuing coverage of the Router function in Vue including redirects. Addditionally, I completed the Beginner Ruby course on GoRails and am going to start the Rails learning projects next.
+
+**Thoughts**: I feel more comfortable with the backend (Java/Spring) content compared to Vue but, I'm also more familiar with the backend as well so, I'm sure, over time, the frontend frameworks will be similarly familiar. 
+
+Going back and forth between Ruby/Rails and Java/Vue is a bit harder but, since the Ruby/Rails stuff is a refresher, it's manageable and I think it gives me more context as I learn concepts or patterns that I have not seen or used previously.
+
 ### Day 11: Jan 7, 2024
 
 **Today's Progress**: Spent some time on Ruby refresher courses. Going to make sure I'm familiarized with base Ruby before starting some Rails learning projects.
