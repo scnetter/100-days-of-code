@@ -12,6 +12,18 @@
 
 [//]: # ()
 [//]: # (**Link to work:** [Calculator App]&#40;http://www.example.com&#41;)
+### Day 13: Jan 9, 2024
+
+**Today's Progress**: Curriculum today focused on starting learning about using Axios on the client to interaction with and send/recv requests to a backend (Java/Spring in our case).
+
+This was an initial discussion around usage/theory with implementation and exercises to follow tomorrow.
+
+Additionally, spent time going through more Rails blog project activities adding initial root path and #show actions for individual posts. Still basic but Rails is always fun - even the basic stuff.
+
+**Thoughts**: Getting close to the end of the bootcamp with a final Capstone upcoming. This will be to tie everything together (JavaScript, Vue, Axios, Java, Spring). Frankly, we've covered a ton of material in the last few months and now, the challenge is integrating that info so it's more accessible rather than needing to refer to notes frequently.
+
+Still, it's amazing how much we've touched in a fairly short period of time. I don't know how others in my cohort who started this without previous coding experience are doing it as, it's definitely been "drinking from the firehose".
+
 ### Day 12: Jan 8, 2024
 
 **Today's Progress**: Curriculum today focused on continuing coverage of the Router function in Vue including redirects. Addditionally, I completed the Beginner Ruby course on GoRails and am going to start the Rails learning projects next.
