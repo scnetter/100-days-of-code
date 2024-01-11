@@ -12,6 +12,29 @@
 
 [//]: # ()
 [//]: # (**Link to work:** [Calculator App]&#40;http://www.example.com&#41;)
+### Day 14: Jan 10, 2024
+
+**Today's Progress**: Continued working through Vue using Axios to query backend server (or statuc JSON file in the instance of our exercise).
+
+Spent time understanding the concept of promises, async requests and passing data between component. 
+
+Additionally, continued work on Ralis blog project (I think everyone that has ever looked at a computer has built a blog project in the language of their choice).
+
+**Thoughts**: Today, the Vue work was easier to understand as I became more familiar with the standard patterns for CRUD actities. 
+
+Porgressed on the Rails project by adding a post endpoint to create a new post. Good coverage of standard actions and what assumptions and conventions are relevant. 
+
+My mind has been spinning a bit the past few days considering what I should build once I'm a bit more adept with the patterns and am ready to create my own. 
+
+Some current ideas:
+
+- Build a Rails based native app (todo list or task manager most likely) - 
+    - See if I can deploy to my phone.
+- Commerce site for my daughter
+    - Stripe
+    - Paypal
+    - etc
+- Others? Early days still~
 ### Day 13: Jan 9, 2024
 
 **Today's Progress**: Curriculum today focused on starting learning about using Axios on the client to interaction with and send/recv requests to a backend (Java/Spring in our case).
