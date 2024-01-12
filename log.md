@@ -12,6 +12,15 @@
 
 [//]: # ()
 [//]: # (**Link to work:** [Calculator App]&#40;http://www.example.com&#41;)
+### Day 14: Jan 11, 2024
+
+**Today's Progress**: Coursework finished up today with final Vue/Axios lecture and exercise. We selected our final capstone project - ours will be a Comic Book exchange site built using Vue/Axios/Vue router on the client side that interacts with a Java/SpringMVC with PostgreSQL backend. 
+
+This will be interesting and, there's a lot to pull together so, it should help solidify the curriculum as we'll be using most of what was covered over the past 3 months.
+
+Additionally, I added the ability to edit the posts in the Rails blog project. It's pretty straight forward but, getting used to all the things Rails does for you auto-magically is still my biggest struggle. Regardless, it's nice to be touching Rails/Ruby code again. 
+
+**Thoughts**:
 ### Day 14: Jan 10, 2024
 
 **Today's Progress**: Continued working through Vue using Axios to query backend server (or statuc JSON file in the instance of our exercise).
