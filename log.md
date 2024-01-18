@@ -12,7 +12,14 @@
 
 [//]: # ()
 [//]: # (**Link to work:** [Calculator App]&#40;http://www.example.com&#41;)
-### Day 14: Jan 11, 2024
+### Day 16-17: Jan 17, 2024
+
+**Today's Progress**: I've been working on the capstone for my coursework. Interesting working on a team where the team owns the project and not an external (or internal) customer. It makes it more difficult in some ways as there's not clear authoritative stakeholder. Still, we're making progress. I've been working with one of the team members primarily on the backend services (DB design, models, JdbcDao and Controllers) while another portion of the team works on the Vue front-end. I've been helping out with that part as well as needed but, it's minimal. It's eye-opening to revisit creating the DOAs and Controllers after a bit of a break while the focus was on Vue and front-end concepts.
+
+**Thoughts**:
+### Day 15: Jan 11, 2024
+
+I feel like I may be splitting my attention a bit too much. In addition to the Capstone, I've been going through  some Rails learning projects and also applying to openings throughout the day. Graduation will be about a week and a half from now. It's going to be a busy few weeks.
 
 **Today's Progress**: Coursework finished up today with final Vue/Axios lecture and exercise. We selected our final capstone project - ours will be a Comic Book exchange site built using Vue/Axios/Vue router on the client side that interacts with a Java/SpringMVC with PostgreSQL backend. 
 
